@@ -1,5 +1,6 @@
 # Spam Message Classifier 
 ### built with NLTK and Scikit-learn (acheiving 99% accuracy)
+Demo ready at [here](https://ssharonctw.github.io/SpamFilterProject/)
 
 ## Data Source Overview
 The data set is from the [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection). It contains 5000 SMS labeled messages that have been collected for mobile phone spam research. 
