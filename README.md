@@ -6,8 +6,8 @@ Demo ready at [here](https://ssharonctw.github.io/SpamFilterProject/)
 The data set is from the [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection). It contains 5000 SMS labeled messages that have been collected for mobile phone spam research. 
 
 ## Project Overview
-1. Load the Dataset
-⋅⋅* Use the pandas dataframe to ensure value are properly loaded
+1. Load the Dataset 
+..* Use the pandas dataframe to ensure value are properly loaded
 
 2. Data Preprocessing</summary>
 ⋅⋅* Convert the class labels (span/ham) to binray values uesing sklearn LabelEncoder
