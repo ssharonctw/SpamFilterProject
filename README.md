@@ -7,7 +7,7 @@ The data set is from the [UCI ML Repository](https://archive.ics.uci.edu/ml/data
 
 ## Project Overview
 1. Load the Dataset 
-..* Use the pandas dataframe to ensure value are properly loaded
+    * Use the pandas dataframe to ensure value are properly loaded
 
 2. Data Preprocessing</summary>
 ⋅⋅* Convert the class labels (span/ham) to binray values uesing sklearn LabelEncoder
